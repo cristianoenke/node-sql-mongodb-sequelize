@@ -1,0 +1,17 @@
+{
+  "name": "intro_node_pg_sequelize-passo3",
+  "version": "1.0.0",
+  "description": "**Repositório utilizado na aula de introdução ao Node com Postgres e Sequelize**",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
